@@ -1,5 +1,6 @@
 # LITA-PROJECT
 ## Project Title : Regional 
+---
 ### Project Overview
 This aims at 
 
@@ -27,4 +28,7 @@ Data sale csv and more.
 
 
 ### Data Analysis
- - input the codes/functions that was used 
+ - input the codes/functions that was used
+   ```SQL
+   SELECT"FROM TABLE1
+   WHERE CONDITION EQUAL TRUE```
