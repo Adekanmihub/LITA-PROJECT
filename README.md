@@ -17,3 +17,14 @@ Data sale csv and more.
 - SQL _ Structured Query Language for querring our work
 - Github - For Portfolio Building .
 
+  ### Data Cleaning and Preparation
+
+   1. Data loading and inspection
+   2. Data cleaning and formatting
+   3. Handling misssing variables
+
+ ### Exploratory Data Analysis
+
+
+### Data Analysis
+ - input the codes/functions that was used 
