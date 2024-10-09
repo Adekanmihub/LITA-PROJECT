@@ -7,7 +7,9 @@ This aims at
 Data sale csv and more.
 
 ### Tools Used
-- Microsoft Excel for data cleaning, analysis and visualization.
+- Microsoft Excel [Download here](https://www.microsoft.com)
+
+   4. for data cleaning, analysis and visualization.
    1. pivot table
    2. Data validation
    3. Table creation.
