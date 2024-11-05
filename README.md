@@ -39,6 +39,7 @@ Data sale csv and more.
    ```SQL
    SELECT"FROM TABLE1
    WHERE CONDITION EQUAL TRUE```
+   PIVOT TABLE
    
 ### Data Visualization
 
