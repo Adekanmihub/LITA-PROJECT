@@ -23,6 +23,7 @@ Data sale csv and more.
    3. Table creation.
       
 - SQL _ Structured Query Language for querring our work
+- POWER BI : For visualization.
 - Github - For Portfolio Building .
 
   ### Data Cleaning and Preparation
@@ -40,6 +41,7 @@ Data sale csv and more.
    SELECT"FROM TABLE1
    WHERE CONDITION EQUAL TRUE```
    PIVOT TABLE
+   EXCEL
    
 ### Data Visualization
 
@@ -49,5 +51,10 @@ Data sale csv and more.
 
 <img width="960" alt="image" src="https://github.com/user-attachments/assets/d7a4d16a-eece-4f88-a1dc-816580d79990">
 
-😆
+### DATA INSIGHT AND CONCLUSION.
 
+In this dashboard, we were able to know the total employee, total current employee which guides us on knowing the rate of attrition per department, age and gender.
+
+The attrition rate is just 16% but the company is advised to look into the cause to avoid going beyond that and fix the cause of attrition.
+
+With the use of filter/slicer, we are able to know the specific department with the highest gender of attrition.
